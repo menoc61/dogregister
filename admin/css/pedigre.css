@@ -1,0 +1,25 @@
+
+.flag{
+    width: 100px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+.input_image{
+    width: 20%;
+    height: 20%;
+    margin-bottom: 10px;
+}
+.space-bottom{
+    margin-bottom: 10rem;
+}
+.printcontainer{
+    justify-content: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-left:3%;
+    padding-right: 3%;
+    border: 7px solid #ff0000;
+    width: 100%;
+    height: fit-content ;
+    display: inline-flex;
+}
